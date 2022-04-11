@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.marquel.xyz](https://www.marquel.xyz)
 
-- 📫 How to reach me **rogersmar2015@gmail.com**
+- 📫 How to reach me **msrogers2015@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
