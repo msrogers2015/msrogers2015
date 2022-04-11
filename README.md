@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msrogers2015&show_icons=true&theme=dark&locale=en" alt="msrogers2015" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrogers2015&theme=dark" alt="msrogers2015" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrogers2015&theme=dark" alt="msrogers2015" /></p>
