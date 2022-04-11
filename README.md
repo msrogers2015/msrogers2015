@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marquel</h1>
-<h3 align="center">Aspiring Python developer based on Illinois</h3>
+<h3 align="center">Aspiring Python developer based in Illinois</h3>
 
 - 🔭 I’m currently working on [Just Enough Git](https://github.com/msrogers2015/Just-Enough-Git)
 
