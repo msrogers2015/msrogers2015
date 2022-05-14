@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marquel</h1>
 <h3 align="center">Aspiring Python developer based in Illinois</h3>
 
-- 🔭 I’m currently working on [Just Enough Git](https://github.com/msrogers2015/Just-Enough-Git)
+Notice: Currently on break from coding to focus on studying for CompTIA Data+ as well as 3D printing. I do plan on returning once I'm finished with CompTAI Data+ with more focus on data analysis.
+
+- 🔭 I’m currently working on CompTIA Data+ certification
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
