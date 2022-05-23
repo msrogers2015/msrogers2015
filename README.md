@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marquel</h1>
 <h3 align="center">Aspiring Python developer based in Illinois</h3>
 
-Notice: Currently on break from coding to focus on studying for CompTIA Data+ as well as 3D printing. I do plan on returning once I'm finished with CompTAI Data+ with more focus on data analysis.
+Notice: Currently on break from coding to focus on studying for CompTIA Data+ as well as 3D printing. I do plan on returning once I'm finished with CompTAI Data+ with more focus on data analysis. However I am working on repo that consist of python files as study aids for both myself and others.
 
-- 🔭 I’m currently working on CompTIA Data+ certification
+- 🔭 I’m currently working on [CompTIA Data+ certification](https://github.com/msrogers2015/CompTIA-Data-Study-Material)
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
