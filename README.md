@@ -3,11 +3,11 @@
 
 Notice: Currently on break from coding to focus on studying for CompTIA Data+ as well as 3D printing. I do plan on returning once I'm finished with CompTAI Data+ with more focus on data analysis. However I am working on repo that consist of python files as study aids for both myself and others.
 
-- 🔭 I’m currently working on [CompTIA Data+ certification](https://github.com/msrogers2015/CompTIA-Data-Study-Material)
+- 🔭 I’m currently working on SimpleInks MS - an inventory and production management system for inks
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://www.marquel.xyz](https://www.marquel.xyz)
+<!--- 👨‍💻 All of my projects are available at [https://www.marquel.xyz](https://www.marquel.xyz) -->
 
 - 📫 How to reach me **msrogers2015@gmail.com**
 
